@@ -1,2 +1,11 @@
 # project1
-new project repo
+new project
+
+## Description
+
+description
+
+## Usage
+```bash
+npm start
+```
