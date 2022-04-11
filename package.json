@@ -1,0 +1,23 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "projet 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo t",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosechambon/project1.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Rose chambon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosechambon/project1/issues"
+  },
+  "homepage": "https://github.com/rosechambon/project1#readme"
+}
